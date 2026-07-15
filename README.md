@@ -1,11 +1,15 @@
 
 # For-Die-Of-Death-Uploads
 Это реально место где вы скачивание версии дай оф деаф
-# Die of death is cancelled.
-<img width="2172" height="1080" alt="12979" src="https://github.com/user-attachments/assets/01b9a4e1-c9df-4248-92cf-08b0c74fdfc5" />
+# Die of death is continued.
+
+Skins will be added in future **1.2**
+
+
 And yeah, this "release" was an ALPHA VERSION release, so the beta version will be released on a different engine where there will be much more stuff, for example, 3D and btw, everything will be better
 
-![12980](https://github.com/user-attachments/assets/8ee10a78-0fb6-4020-b365-a98a238c44f2)
+<img width="1200" height="1200" alt="12913" src="https://github.com/user-attachments/assets/159f1917-5865-4db3-bbf4-36c27def5ecb" />
+
 
 Yeah now in my apologies die of death firts beta test will come in next year ..
 
